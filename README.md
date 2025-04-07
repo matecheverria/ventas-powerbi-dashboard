@@ -3,6 +3,10 @@
 
 Este proyecto forma parte de mi portafolio profesional como Ingeniero en Informática, orientado al análisis y visualización de datos con Power BI.
 
+## 📸 Vista Previa del Dashboard
+
+![Vista Previa del Dashboard](MiniaturaBI.png)
+
 ## 📌 Descripción del Proyecto
 
 El dashboard simula el análisis de ventas de una tienda e-commerce de productos tecnológicos. Permite visualizar el comportamiento de las ventas a lo largo del tiempo, identificar productos y categorías más relevantes, analizar la distribución geográfica de los ingresos, y explorar los datos segmentando por género y edad de los clientes.
@@ -26,20 +30,30 @@ El dashboard simula el análisis de ventas de una tienda e-commerce de productos
 7. 🌍 Ingresos por País  
 8. 🎛️ Segmentadores por Género y Edad  
 
+## 📂 Archivos Incluidos
+
+- `ventas.pbix` → Archivo original del dashboard  
+- `ventas.pdf` → Exportación en PDF  
+- `MiniaturaBI.png` → Imagen destacada del dashboard  
+- `README.md` → Documentación del proyecto  
+
 ## 🛠️ Herramientas Utilizadas
 
 - Power BI Desktop  
 - Microsoft Excel (datos simulados)  
 - DAX para medidas personalizadas  
 
-## 📂 Archivos Incluidos
+## 👨‍💻 Cómo Visualizar el Dashboard
 
-- `ventas.pbix` → Archivo original del dashboard  
-- `ventas.pdf` → Exportación en PDF  
-- `miniatura.png` → Imagen destacada para portafolio / LinkedIn  
-- `README.md` → Este archivo  
+1. Descarga el archivo `ventas.pbix` desde este repositorio.
+2. Abre el archivo utilizando [Power BI Desktop](https://powerbi.microsoft.com/es-es/desktop/).
+3. Explora las diferentes visualizaciones y segmentaciones interactivas disponibles en el dashboard.
+
+## 📜 Licencia
+
+Este proyecto se encuentra bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente, con atribución correspondiente.
 
 ---
 
 ¡Gracias por visitar mi portafolio!  
-[LinkedIn](https://www.linkedin.com/in/matias-echeverria-c)
+📎 [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/matecheverria)
