@@ -42,4 +42,4 @@ El dashboard simula el análisis de ventas de una tienda e-commerce de productos
 ---
 
 ¡Gracias por visitar mi portafolio!  
-[LinkedIn](https://www.linkedin.com/in/matecheverria)
+[LinkedIn](https://www.linkedin.com/in/matias-echeverria-c)
